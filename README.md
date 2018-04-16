@@ -12,14 +12,12 @@ Use Cases Impplemented:
   Allow Swap
 
 Permitted Work Flow:
-> Student registers in ERP
-> Halls are registered using the interface
-> Halls are allocated 
-> Students fill application for swap
-> Admin may accept or reject the application
->Admin could retrieve and check data of students
+- Student registers in ERP
+- Halls are registered using the interface
+- Halls are allocated 
+- Students fill application for swap
+- Admin may accept or reject the application
+- Admin could retrieve and check data of students
 
 Possibile causes of error :
 Fiddling with generated files
-
-`<#include >`
